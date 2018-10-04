@@ -9,5 +9,5 @@ int main()
     user = "Ben";
 
     // Greet the user
-    cout << "Hello World!\n";
+    cout << "Hello " + user + " !\n";
 }
