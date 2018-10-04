@@ -5,9 +5,7 @@ using namespace std;
 
 int main()
 {
-    string user;
-    user = "Ben";
-
-    // Greet the user
-    cout << "Hello " + user + " !\n";
+    string user;				// Define an empty string
+    user = "Ben Greco";				// Populate the new string
+    cout << "Hello " + user + "!\n";		// Greet the user
 }
