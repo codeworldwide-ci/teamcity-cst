@@ -8,6 +8,6 @@ int main()
     string user;
     user = "Ben";
 
-    # Greet the user
+    // Greet the user
     cout << "Hello World!\n";
 }
