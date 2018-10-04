@@ -6,6 +6,6 @@ using namespace std;
 int main()
 {
     string user;				// Define an empty string
-    user = "Ben Greco";				// Populate the new string
+    user = "Ant and Ben";			// Populate the new string
     cout << "Hello " + user + "!\n";		// Greet the user
 }
