@@ -1,6 +1,7 @@
 #include "pch.h"
 #include <iostream>
 #include <string>
+using namespace std;
 
 int main()
 {
@@ -8,5 +9,5 @@ int main()
     user = "Ben";
 
     # Greet the user
-    std::cout << "Hello World!\n";
+    cout << "Hello World!\n";
 }
